@@ -218,3 +218,6 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Generated Chroma vector store (rebuilt by ingestion_pipeline.py)
+db/
